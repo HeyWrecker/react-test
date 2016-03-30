@@ -130,7 +130,7 @@ var CommentForm = React.createClass({
         />
         <input
           type="text"
-          placeholder="Say something..."
+          placeholder="Say something damnit..."
           value={this.state.text}
           onChange={this.handleTextChange}
         />
